@@ -1,0 +1,30 @@
+/* added font */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/* header section */
+.button-color{
+    background-color: #E76F51;
+    color: #FFFFFF;
+}
+.header-background{
+    background-color: #264653;
+}
+.header-font-color{
+    color: #E0E0E0
+}
+#small-font{
+    font-size: 14px;
+}
+/* make image grayscale for fetured section */
+.image-grayscale{
+    filter: grayscale(100%);
+}
+/* rating icon color in user review section */
+.icon-color{
+    color: #E77C40;
+}
+
+.span-primary-color{
+    color: #E76F51;
+}
